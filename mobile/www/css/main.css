@@ -1,0 +1,17 @@
+body {
+    margin-left: 4px;
+    margin-right: 4px;
+    text-transform: none;
+}
+
+.ui-footer {
+	text-align: center;
+}
+
+.err {
+	color: red;
+}
+
+.hidden {
+	display: none;
+}

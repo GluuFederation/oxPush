@@ -1,0 +1,3 @@
+LDAP_BASE_DN=o=@!1111,o=gluu
+LDAP_SERVER_URL=ldap://localhost:1389
+LDAP_BIND_CREDENTIALS=password
