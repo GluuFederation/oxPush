@@ -1,6 +1,7 @@
 oxPush
 ======
 <p>oxPush is an open source mobile two-factor authentication application that can be deployed on Android, iOS, Windows and Blackberry mobile platforms. oxPush is an Apache Cordova project, and is a single html5 page that can be customized to present a very specific user experience for mobile two-factor authentication.</p>
+<p>To access Gluu support, please register and open a ticket on <a href="http://support.gluu.org" target="none">Gluu Support</a>
 <h2><a name="table-of-contents" class="anchor" href="#table-of-contents"><span class="octicon octicon-link"></span></a>Table of contents</h2>
 <ul>
 <li><a href="#server-deployment">Server Deployment</a></li>
