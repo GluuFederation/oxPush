@@ -5,7 +5,7 @@
 	<groupId>org.xdi</groupId>
 	<artifactId>oxpush-java-sdk</artifactId>
 	<packaging>jar</packaging>
-	<version>0.0.1</version>
+	<version>1.2.0.Final</version>
 
 	<prerequisites>
 		<maven>3.0.3</maven>
@@ -73,7 +73,7 @@
 		<dependency>
 			<groupId>org.xdi</groupId>
 			<artifactId>oxUtil</artifactId>
-			<version>0.1.8-SNAPSHOT</version>
+			<version>1.2.0.Final</version>
 			<exclusions>
 				<exclusion>
 					<artifactId>el-api</artifactId>

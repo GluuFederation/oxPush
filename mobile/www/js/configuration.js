@@ -7,8 +7,8 @@ function oxconf() {}
 
 oxconf.prototype.init = function init(id) {
 	// Global variables
-	this.oxPushServerUri = 'http://192.168.1.1:3000/oxpush';
-	this.androidAppProgramId = '123456789012';
+	this.oxPushServerUri = 'http://192.168.1.13:3000/oxpush';
+	this.androidAppProgramId = '779424896838';
 	this.debug = true;
 }
 
