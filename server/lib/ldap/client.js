@@ -6,6 +6,7 @@
 
 var ldap = require('ldapjs');
 var Logger = require('bunyan');
+var util = require('util');
 
 var MAX_CONNS = process.env.LDAP_MAX_CONNS || 10;
 var SERVER_URL = process.env.LDAP_SERVER_URL || 'ldap://localhost:1389';

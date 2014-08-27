@@ -3,6 +3,7 @@
  * 
  * Author: Yuriy Movchan Date: 11/06/2013
  */
+var util = require('util');
 
 function ApplicationService(ldapClient) {
 	this.ldapClient = ldapClient;
